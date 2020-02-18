@@ -1,7 +1,10 @@
 .{
     font-family: 'Roboto', 'Helvetica', sans-serif;
+    
+}
+.container{
+    width: 768px;
 }
 #profile{
-    background-color: #0f4c81;
-    color: aliceblue;
+    background-color: #edc1ce;
 }
